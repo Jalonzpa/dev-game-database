@@ -1,0 +1,17 @@
+[28-Jul-2017 15:15:52 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home1/demonswa/public_html/entry/process.php on line 25
+[16-Mar-2018 15:23:03 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/demonswa/public_html/entry/index.php on line 6
+[16-Mar-2018 15:23:09 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home1/demonswa/public_html/entry/index.php on line 6
+[16-Mar-2018 15:25:39 America/Denver] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home1/demonswa/public_html/entry/process.php on line 22
+[16-Mar-2018 15:26:24 America/Denver] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home1/demonswa/public_html/entry/process.php on line 22
+[16-Mar-2018 15:51:00 America/Denver] PHP Parse error:  syntax error, unexpected 'mysqli_query' (T_STRING) in /home1/demonswa/public_html/entry/process.php on line 22
+[21-Mar-2018 11:09:18 America/Denver] PHP Notice:  Undefined variable: conn in /home1/demonswa/public_html/entry/process.php on line 25
+[21-Mar-2018 11:09:18 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home1/demonswa/public_html/entry/process.php on line 25
+[21-Mar-2018 11:10:15 America/Denver] PHP Notice:  Undefined variable: conn in /home1/demonswa/public_html/entry/process.php on line 25
+[21-Mar-2018 11:10:15 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home1/demonswa/public_html/entry/process.php on line 25
+[21-Mar-2018 11:11:45 America/Denver] PHP Notice:  Undefined variable: sql in /home1/demonswa/public_html/entry/process.php on line 25
+[21-Mar-2018 11:11:45 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home1/demonswa/public_html/entry/process.php on line 25
+[21-Mar-2018 11:11:45 America/Denver] PHP Notice:  Undefined variable: sql in /home1/demonswa/public_html/entry/process.php on line 29
+[21-Mar-2018 11:11:45 America/Denver] PHP Notice:  Undefined variable: conn in /home1/demonswa/public_html/entry/process.php on line 29
+[21-Mar-2018 11:11:45 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/demonswa/public_html/entry/process.php on line 29
+[21-Mar-2018 11:14:09 America/Denver] PHP Parse error:  syntax error, unexpected ',' in /home1/demonswa/public_html/entry/process.php on line 22
+[21-Mar-2018 12:33:56 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/demonswa/public_html/entry/process.php on line 30

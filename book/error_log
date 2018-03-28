@@ -1,0 +1,30 @@
+
+[13-Mar-2018 13:43:46 America/Denver] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home1/demonswa/public_html/book/book-search.php on line 72
+[13-Mar-2018 13:43:54 America/Denver] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home1/demonswa/public_html/book/book-search.php on line 72
+[13-Mar-2018 13:45:30 America/Denver] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home1/demonswa/public_html/book/book-search.php on line 72
+[13-Mar-2018 13:49:04 America/Denver] PHP Notice:  Undefined index: player in /home1/demonswa/public_html/book/book-search.php on line 13
+[13-Mar-2018 13:49:04 America/Denver] PHP Notice:  Undefined index: age in /home1/demonswa/public_html/book/book-search.php on line 29
+[13-Mar-2018 13:50:29 America/Denver] PHP Notice:  Undefined variable: connect in /home1/demonswa/public_html/book/book-search.php on line 3
+[13-Mar-2018 13:50:29 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home1/demonswa/public_html/book/book-search.php on line 61
+[13-Mar-2018 13:53:59 America/Denver] PHP Notice:  Undefined variable: connect in /home1/demonswa/public_html/book/book-search.php on line 3
+[13-Mar-2018 13:53:59 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home1/demonswa/public_html/book/book-search.php on line 61
+[13-Mar-2018 14:20:55 America/Denver] PHP Parse error:  syntax error, unexpected ''</div>;' (T_ENCAPSED_AND_WHITESPACE) in /home1/demonswa/public_html/book/book-search.php on line 83
+[17-Mar-2018 14:15:44 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[17-Mar-2018 14:15:44 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:25:17 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[20-Mar-2018 08:25:17 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:28:41 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[20-Mar-2018 08:28:41 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:32:12 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[20-Mar-2018 08:32:12 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:32:19 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[20-Mar-2018 08:32:19 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:32:27 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[20-Mar-2018 08:32:27 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:32:42 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/query.php on line 3
+[20-Mar-2018 08:32:42 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/query.php on line 15
+[20-Mar-2018 08:32:55 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/book/age-search.php on line 3
+[20-Mar-2018 08:32:55 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/book/age-search.php on line 48
+[20-Mar-2018 10:20:27 America/Denver] PHP Notice:  Undefined variable: id in /home1/demonswa/public_html/book/query.php on line 29
+[20-Mar-2018 10:21:21 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home1/demonswa/public_html/book/query.php on line 28
+[21-Mar-2018 11:02:27 America/Denver] PHP Notice:  Undefined index: id in /home1/demonswa/public_html/book/age-search.php on line 63

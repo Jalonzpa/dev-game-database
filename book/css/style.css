@@ -1,0 +1,298 @@
+body,
+div,
+ul,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding:0;
+  margin:0;
+  font-family: 'NTR', sans-serif;;
+}
+
+h1 {
+  font-size: 32px;
+  color: #f5a623;
+  line-height: 35px;
+  display: inline;
+}
+
+h2 {
+  font-size: 16px;
+  color: #f5a623;
+  line-height: 20px;
+  padding: 10px;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 20px;
+  color: #000;
+  line-height: 22px;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 14px;
+  color: #4a4a4a;
+  line-height: 17px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  padding:10px 5%;
+
+}
+
+
+.date-text {
+  font-style: italic;
+  font-size: 14px;
+  color: #999;
+  line-height: 16px;
+  float: left;
+}
+
+.location-text {
+  font-style: italic;
+  font-size: 14px;
+  color: #999;
+  line-height: 16px;
+  float: right;
+
+}
+
+p {
+  font-size: 14px;
+  color: #333;
+  line-height: 21px;
+}
+
+a {
+  color: #1199c3;
+  text-decoration: none;
+  margin-top: 10px;
+  display: block;
+}
+.flex-box {
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.blue-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: DodgerBlue;
+  border: none;
+  color: black;
+}
+.green-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: Green;
+  border: none;
+  color: black;
+}
+.orange-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: DarkOrange;
+  border: none;
+  color: black;
+}
+
+.pink-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: LightPink;
+  border: none;
+  color: black;
+}
+
+.purple-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: DarkViolet;
+  border: none;
+  color: black;
+}
+.red-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: FireBrick;
+  border: none;
+  color: black;
+}
+.yellow-button {
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: Gold;
+  border: none;
+  color: black;
+}
+
+
+img {
+  width: 95%;
+  max-height: 350px;
+  padding: 10px;
+}
+
+img2 {
+  width: 95%;
+  max-width: 128px;
+  padding: 10px;
+}
+
+span {
+  padding: 5px;
+}
+
+#lets-connect {
+  text-align: center;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+.container{
+    margin-top: 28px;
+    margin-bottom: 40px;
+    display: flex;
+    vertical-align: text-top;
+    height: 295px;
+  
+}
+.row {
+    max-width: 768px;
+    margin-bottom: 10px;
+    display: flex;
+    vertical-align: text-top;
+    max-height: 320px;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.67%;
+    margin-left: 20px;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+    
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.67%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.67%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+/* Media queries to handle various device widths */
+
+@media only screen and (max-width: 1024px) {
+  #lets-connect {
+    margin-top: 5%;
+  }
+}
+
+@media only screen and (max-width:900px) {
+  .biopic {
+    width: 175px;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  #lets-connect {
+    margin-top: 10%;
+  }
+  .biopic {
+    width: 150px;
+  }
+  .welcome-message {
+    display: none;
+  }
+}
+
+#map {
+  display: block;
+  height: 100%;
+  margin: 0 5%;
+}
+
+#mapDiv {
+  height: 400px;
+  width: 100%;
+  padding-bottom: 5%;
+}
+
+@media only screen and (min-width: 750px) {
+  #skills-h3,
+  .biopic {
+    display: block;
+  }
+}

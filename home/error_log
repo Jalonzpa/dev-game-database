@@ -1,0 +1,17 @@
+[28-Jul-2017 14:35:35 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[28-Jul-2017 14:37:02 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[07-Mar-2018 08:10:54 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[13-Mar-2018 13:49:14 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[15-Mar-2018 09:01:27 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[15-Mar-2018 09:01:49 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[15-Mar-2018 09:31:59 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[15-Mar-2018 09:32:00 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[15-Mar-2018 09:44:08 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[15-Mar-2018 09:44:22 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[17-Mar-2018 13:03:49 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[17-Mar-2018 13:03:58 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[20-Mar-2018 08:26:59 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[20-Mar-2018 08:27:11 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[20-Mar-2018 08:27:36 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[20-Mar-2018 08:31:52 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3
+[20-Mar-2018 08:31:52 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/home/index.php on line 3

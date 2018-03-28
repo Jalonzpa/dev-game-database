@@ -1,0 +1,9 @@
+[28-Feb-2018 07:15:49 America/Denver] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'demonswa'@'localhost' (using password: YES) in /home1/demonswa/public_html/edit/edit.php on line 8
+[28-Feb-2018 07:15:49 America/Denver] PHP Fatal error:  Call to a member function query() on boolean in /home1/demonswa/public_html/edit/edit.php on line 19
+[01-Mar-2018 11:29:12 America/Denver] PHP Notice:  Undefined variable: player_number in /home1/demonswa/public_html/edit/edit.php on line 49
+[01-Mar-2018 11:32:11 America/Denver] PHP Notice:  Undefined variable: game_player_number in /home1/demonswa/public_html/edit/process.php on line 28
+[01-Mar-2018 11:32:18 America/Denver] PHP Notice:  Undefined variable: player_number in /home1/demonswa/public_html/edit/edit.php on line 49
+[01-Mar-2018 11:33:30 America/Denver] PHP Notice:  Undefined variable: player_number in /home1/demonswa/public_html/edit/edit.php on line 49
+[01-Mar-2018 11:34:17 America/Denver] PHP Notice:  Undefined index: playnum in /home1/demonswa/public_html/edit/process.php on line 20
+[01-Mar-2018 11:34:22 America/Denver] PHP Notice:  Undefined variable: player_number in /home1/demonswa/public_html/edit/edit.php on line 49
+[01-Mar-2018 11:36:39 America/Denver] PHP Notice:  Undefined variable: player_number in /home1/demonswa/public_html/edit/edit.php on line 49
