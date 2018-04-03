@@ -69,7 +69,7 @@ switch ($play_age) {
        {  
          
           echo '<div class="row">';
-          for ($i = 0 ; $i < 3 ; $i++){
+          for ($i = 0 ; $i < 3 && $j ; $i++){
 	          $results->data_seek($j);
 	          $row = $results->fetch_array(MYSQLI_ASSOC);
 	          $color = $row['color'];
