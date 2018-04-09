@@ -89,6 +89,9 @@ The book is not behind any authentication because there is no option for editing
 ### CSS
 The book is a webpage.  It is styled using CSS.  Many changes can be applied across the board using minimal changes in the CSS code.  Font changes and color changes are the most likely.  The “number stickers” are buttons and changing the color of them is as easy as updating the button tag in the CSS.  If new colors are added new tags will have to be created to change the color. CSS is case sensitive.  If it was to use some info from the database it is important that case is consistent.  (The images were originally pulled using a combination of color and number.  Any game that was entered with a capitalized color name wouldn’t have a picture.  Now that they are pulled using the id this isn’t an issues, but it the sort of issues to be on the lookout for.)  For the colors I used the W3Schools color picker.  
 
+### Printing Instructions
+Printing is pretty straight forward.  Firefox seems to print better.  Chrome has some weird stuff occassionally.  Either browser requires you to click "Print Background (Colors & Background)".  In Firefox, it is in the Page Setup menu.  In chrome, it is in More Settings.  The button colors will not print at all in chrome if that is not selected.  Some of the colors are off in Firefox without it.
+
 
 
 
